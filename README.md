@@ -1,15 +1,3 @@
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
 🌱 MPNAG Greenhouse (IoT Plant App)
 
 MPNAG Greenhouse is a smart IoT-based plant monitoring and control system that connects to an ESP32 via Bluetooth. The application tracks real-time environmental data such as temperature, humidity, and soil moisture, allowing users to monitor plant conditions directly from their mobile device.
